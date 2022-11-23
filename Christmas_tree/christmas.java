@@ -1,5 +1,10 @@
 package Christmas_tree;
+
 import java.util.Scanner;
+
+/*
+Write a program that takes a number from user, and prints a Christmas tree with height being user input number
+*/
 
 public class christmas {
     public static void main(String args[]){  
