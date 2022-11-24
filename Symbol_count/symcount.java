@@ -5,15 +5,15 @@ import java.util.Scanner;
 /*
 Write a program that counts symbols from user input, example: 
 2
-yes
+yessS
 yEP
-
 Output:
 y: 2
 e: 1
 E: 1
-s: 1
+s: 2
 P: 1
+S: 1
  */
 
 public class symcount 
