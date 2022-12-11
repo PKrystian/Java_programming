@@ -6,10 +6,12 @@ import java.util.Scanner;
 Write a program that sorts array ascending, from user input
 */
 
-public class array_sort {
+public class array_sort 
+{
     public static void main(String[] args)   
     {  
-        try (Scanner sc = new Scanner(System.in)) {
+        try (Scanner sc = new Scanner(System.in)) 
+        {
             System.out.print("Enter the number of elements you want to store: ");  
             int n=sc.nextInt();  
             int[] arr = new int[n];  
